@@ -9,10 +9,10 @@
 **Link to work:** Everything is available in the CS50 IDE for right now. May start updating files individually. Not sure how that will work moving forward. 
 
 
-### Day 2: September 23, 2018
+### Day 2: September 24, 2018
 
-**Today's Progress**: TEST
+**Today's Progress**: Spent a lot of my time today trying to understand virtual tables in sqlite3. I think I finally have them remotely figured out so that I can quickly search all columns when utilizing the search function.
 
-**Thoughts:** TEST
+**Thoughts:** Need to spend a bit more time coding then I did today. Tomorrow will work on fully implementing the search function with the newly created virtual tables. 
 
-**Link to work:** TEST 
+**Link to work:** Everything is available in the CS50 IDE for right now. May start updating files individually. Not sure how that will work moving forward. 
