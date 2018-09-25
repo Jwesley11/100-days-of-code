@@ -7,3 +7,12 @@
 **Thoughts:** Nothing overly difficult today. Pretty straight forward getting the function to return the news list in the right format. Tomorrow should continue reading about the FTS seaches in SQLite3 so I can increase the search functionality. Good first day. Keep it up, Bruh. 
 
 **Link to work:** Everything is available in the CS50 IDE for right now. May start updating files individually. Not sure how that will work moving forward. 
+
+
+### Day 2: September 23, 2018
+
+**Today's Progress**: TEST
+
+**Thoughts:** TEST
+
+**Link to work:** TEST 
