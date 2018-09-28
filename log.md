@@ -16,3 +16,11 @@
 **Thoughts:** Need to spend a bit more time coding then I did today. Tomorrow will work on fully implementing the search function with the newly created virtual tables. 
 
 **Link to work:** Everything is available in the CS50 IDE for right now. May start updating files individually. Not sure how that will work moving forward. 
+
+### Day 3: September 27, 2018
+
+**Today's Progress**: Search functionality is up and working. Individuals can find locations on the google maps (US based only). 
+
+**Thoughts:** Good work today. Definitely need to start reading in my spare time the YDKJS books so I can get a better handle on that stuff. 
+
+**Link to work:** Everything is available in the CS50 IDE for right now. May start updating files individually. Not sure how that will work moving forward. 
