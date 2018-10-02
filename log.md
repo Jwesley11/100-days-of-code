@@ -24,3 +24,11 @@
 **Thoughts:** Good work today. Definitely need to start reading in my spare time the YDKJS books so I can get a better handle on that stuff. 
 
 **Link to work:** Everything is available in the CS50 IDE for right now. May start updating files individually. Not sure how that will work moving forward. 
+
+### Day 4: October 1, 2018
+
+**Today's Progress**: Added markers to the map, and updated removeMarker functionality so that you can move and find new cities. 
+
+**Thoughts:** Right now I'm having an issue displaying the articles on each of the markers. I somehow need to implement jQuery so that on 'click' the markers will display the info of the articles function. I need to look into accessing the data in a JSON response. Spent a while reading about it today and should have a better grasp on it tomorrow hopefully. 
+
+**Link to work:** Everything is available in the CS50 IDE for right now. May start updating files individually. Not sure how that will work moving forward. 
