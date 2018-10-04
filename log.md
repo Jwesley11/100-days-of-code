@@ -31,4 +31,13 @@
 
 **Thoughts:** Right now I'm having an issue displaying the articles on each of the markers. I somehow need to implement jQuery so that on 'click' the markers will display the info of the articles function. I need to look into accessing the data in a JSON response. Spent a while reading about it today and should have a better grasp on it tomorrow hopefully. 
 
+**Link to work:** Everything is available in the CS50 IDE for right now. May start updating files individually. Not sure how that will work moving forward.
+
+### Day 5: October 2, 2018
+
+**Today's Progress**: Huge day today on the Mashup problem. Managed to finish everything up. Implemented a custom marker for the cities on the map. Created list of articles that populate upon interacting with a marker. All systems go. 
+
+**Thoughts:** On to the final week of the CS50 coursework. The final thing left to do for the course now is the final project, which I'm not really sure what that should be. I think what I'd like to do is start moving forward with my learning so that I'm not dragging my feet trying to come up with a project. 
+
 **Link to work:** Everything is available in the CS50 IDE for right now. May start updating files individually. Not sure how that will work moving forward. 
+
