@@ -41,3 +41,10 @@
 
 **Link to work:** Everything is available in the CS50 IDE for right now. May start updating files individually. Not sure how that will work moving forward. 
 
+### Day 6: October 6, 2018
+
+**Today's Progress**: Been reading through the Git Basics today, so that I can try to understand how to use this system a bit better. 
+
+**Thoughts:** CS50 is all done, except for a final project. I don't know what I want to create for that yet. Going to move on to reading and taking notes on the YDKJS books tomorrow. 
+
+**Link to work:** N/A
