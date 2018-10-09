@@ -48,3 +48,11 @@
 **Thoughts:** CS50 is all done, except for a final project. I don't know what I want to create for that yet. Going to move on to reading and taking notes on the YDKJS books tomorrow. 
 
 **Link to work:** N/A
+
+### Day 7: October 8, 2018
+
+**Today's Progress**: Started on the YDKJS series. Made it through Chapter 1/conditionals and am taking notes. Being sure to write about WHAT I learned from the readings as I go.
+
+**Thoughts:** So far everything seems to be stuff that I've actually already looked at. Need to go ahead and get a bit further before I start learning some new stuff. 
+
+**Link to work:** I'm going to work on creating a repository that has a markdown file of the notes that I'm taking as I'm reading. For now, the notes are simply living in Sublime. 
