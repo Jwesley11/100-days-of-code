@@ -65,3 +65,10 @@
 
 **Link to work:** I'm going to work on creating a repository that has a markdown file of the notes that I'm taking as I'm reading. For now, the notes are simply living in Sublime. 
 
+### Day 9: October 17, 2018
+
+**Today's Progress**: Moving through chapter 2 of YDKJS B1. Leaving off on 'Equality' section.
+
+**Thoughts:** Starting to get into a deeper knowledge and understanding of javaScript itself. Taking some good notes on what I'm actually learning as I read through.
+
+**Link to work:** I'm going to work on creating a repository that has a markdown file of the notes that I'm taking as I'm reading. For now, the notes are simply living in Sublime. 
