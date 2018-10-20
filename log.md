@@ -73,7 +73,7 @@
 
 **Link to work:** I'm going to work on creating a repository that has a markdown file of the notes that I'm taking as I'm reading. For now, the notes are simply living in Sublime. 
 
-### Day 10: October 18, 2018
+### Day 10: October 19, 2018
 
 **Today's Progress**: Reviewing equalities, and starting to get into the idea of scopes and how they impact variables. Hoisting is an interesting concept that I didn't know about. Also very briefly began reading about the 'Strict mode' which seems like a great way to ensure you're writing proper code. 
 
