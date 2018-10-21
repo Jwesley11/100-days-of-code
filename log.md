@@ -80,3 +80,11 @@
 **Thoughts:** Keep on trekking.
 
 **Link to work:** I'm going to work on creating a repository that has a markdown file of the notes that I'm taking as I'm reading. For now, the notes are simply living in Sublime. 
+
+### Day 11: October 20, 2018
+
+**Today's Progress**: Finished up YDKJS B1. 
+
+**Thoughts:** So much learning to do. Moving onto the next book tomorrow, which is going to be difficult. I have a decent understanding of scope, but the whole closure thing is definitely new to me. Excited to continue the learning. LETS GO BRUH.
+
+**Link to work:** I'm going to work on creating a repository that has a markdown file of the notes that I'm taking as I'm reading. For now, the notes are simply living in Sublime. 
