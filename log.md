@@ -96,3 +96,11 @@
 **Thoughts:** keep trekking mo fuckah.
 
 **Link to work:** I'm going to work on creating a repository that has a markdown file of the notes that I'm taking as I'm reading. For now, the notes are simply living in Sublime. 
+
+### Day 13: October 23, 2018
+
+**Today's Progress**: Crushed the rest of Chapter 1 today.
+
+**Thoughts:** On to Chapter 2 we go mofo. Interesting to learn about how the type of error presented gives an indication of what happened while executing. `ReferenceError` vs. `TypeError` based on it being an issue of Scope or how the returned value was attempted to be used. 
+
+**Link to work:** I'm going to work on creating a repository that has a markdown file of the notes that I'm taking as I'm reading. For now, the notes are simply living in Sublime. 
