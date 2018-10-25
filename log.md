@@ -104,3 +104,11 @@
 **Thoughts:** On to Chapter 2 we go mofo. Interesting to learn about how the type of error presented gives an indication of what happened while executing. `ReferenceError` vs. `TypeError` based on it being an issue of Scope or how the returned value was attempted to be used. 
 
 **Link to work:** I'm going to work on creating a repository that has a markdown file of the notes that I'm taking as I'm reading. For now, the notes are simply living in Sublime. 
+
+### Day 14: October 24, 2018
+
+**Today's Progress**: Crushed Chapter 2 today. 
+
+**Thoughts:** Take away here is that with lexical scope, we shouldn't be doing anything to inhibit and counteract the performance optimizations provided when lexing. Basically, don't be using `eval()` or `with` within my programs. They impact the lexical scope (modify it on the fly) and should not be utilized for performance efficient code. 
+
+**Link to work:** I'm going to work on creating a repository that has a markdown file of the notes that I'm taking as I'm reading. For now, the notes are simply living in Sublime. 
