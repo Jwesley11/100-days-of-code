@@ -112,3 +112,11 @@
 **Thoughts:** Take away here is that with lexical scope, we shouldn't be doing anything to inhibit and counteract the performance optimizations provided when lexing. Basically, don't be using `eval()` or `with` within my programs. They impact the lexical scope (modify it on the fly) and should not be utilized for performance efficient code. 
 
 **Link to work:** I'm going to work on creating a repository that has a markdown file of the notes that I'm taking as I'm reading. For now, the notes are simply living in Sublime. 
+
+### Day 15: October 25, 2018
+
+**Today's Progress**: Making my way through Chpater 3. About halfway through. 
+
+**Thoughts:** Very excited to start making some stuff after reading these chapters. Reading is great, but I need some hands on action.
+
+**Link to work:** I'm going to work on creating a repository that has a markdown file of the notes that I'm taking as I'm reading. For now, the notes are simply living in Sublime. 
